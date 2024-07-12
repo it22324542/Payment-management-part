@@ -1,0 +1,96 @@
+.btn-purple {
+    background-color: purple;
+    color: white; 
+}
+
+.btn-green {
+    background-color: rgb(0, 151, 28);
+    color: white; 
+}
+
+.btn-green2 {
+    background-color: #4cd29d;
+    color: #ffffff; 
+}
+
+.btn-red {
+    background-color: rgb(240, 46, 46);
+    color: white; 
+}
+
+.btn-orange {
+    background-color: rgb(230, 153, 21);
+    color: white; 
+}
+
+.text-purple {
+    color: purple;
+}
+
+.blue-border {
+    border-color: #3fadbe !important;
+  }
+
+.red-border {
+    border-color: #ff0000 !important;
+  }
+
+  .highlight-text {
+    background-color: yellow; /* Change this to your desired highlight color */
+}
+
+  
+
+.backgroundImageContainer  {
+    filter: none; /* Remove the blur effect for inputs and textarea */
+    background-image: url('./pages/payment_back.jpg'); 
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backgroundImageContainerPayTable  {
+    filter: none; /* Remove the blur effect for inputs and textarea */
+    background-image: url('./pages/payment_table_back.jpg'); 
+    width: 100%;
+    height: 125vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backgroundImageContainerPayReport  {
+    filter: none; /* Remove the blur effect for inputs and textarea */
+    background-image: url('./pages/payment_report_back.jpg'); 
+    width: 100%;
+    height: 125vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backgroundImageContainerPayInfo {
+    filter: none; /* Remove the blur effect for inputs and textarea */
+    background-image: url('./pages/payment_info_back.jpg'); 
+    width: 100%;
+    height: 200vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backgroundImageContainerPayEdit {
+    filter: none; /* Remove the blur effect for inputs and textarea */
+    background-image: url('./pages/payment_edit_back.jpg'); 
+    width: 100%;
+    height: 170vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backgroundImageContainerPayDelete {
+    filter: none; /* Remove the blur effect for inputs and textarea */
+    background-image: url('./pages/payment_delete_back.jpg'); 
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
